@@ -10,8 +10,8 @@
 
 Here’s a showcase of my hands-on cybersecurity projects:  
 
-- 🔗 [Google Cybersecurity Labs](https://github.com/sarath/google-cybersecurity-labs)  
-- 🔗 [TryHackMe Cyber Security 101](https://github.com/sarath/tryhackme-cybersecurity101)  
+- 🔗 [Google Cybersecurity Labs](https://github.com/Sarath-S-cyber/Google-Professional-Cybersecurity-Lab) 
+- 🔗 [TryHackMe Cyber Security 101](https://github.com/Sarath-S-cyber/Cybersecurity-101-TryHackme-Lab) 
 
 ---
 
